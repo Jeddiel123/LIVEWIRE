@@ -1,0 +1,1 @@
+<img src="https://images.vexels.com/media/users/3/149889/isolated/preview/1c2575dc99999eaf728f75a35b0842e3-icono-de-notas-isometricas.png" alt="Eliminar" height="60px" width="60px">
